@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FallDetector
+  - apple
+  - candy
+  - cheese
+  - icedtea
+  - lid
+  - milk
+  - straw
+  - water
+  - cookieplate
+  - mainhand
+  - cookie
+  - tooltip
+  - tooltipSpawnPoint
+  - nextLevelObject
+  - Player2
+  - nextlevelObject2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1738845487
+    locked: 0
+  - name: mouse
+    uniqueID: 1367742259
+    locked: 0
+  - name: platforms
+    uniqueID: 1027329249
+    locked: 0
+  - name: collects
+    uniqueID: 2523016457
+    locked: 0
+  - name: hands
+    uniqueID: 1103901837
+    locked: 0
+  - name: scroll
+    uniqueID: 2935083409
+    locked: 0
